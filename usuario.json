@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "id_tipo_usuario": 3,
+    "correo": "naranjocamilo26@gmail.com",
+    "nombre_usuario": "Camilo Marín",
+    "pais_origen": "Colombia",
+    "telefono": "378567089",
+    "contrasena": "863674638M",
+    "sexo": "M",
+    "fecha_nacimiento": "2003-12-26T00:00:00.000Z",
+    "nombre": "Camilo",
+    "apellidos": "Marin"
+  }, 
+  {
+    "id": 2,
+    "id_tipo_usuario": 1,
+    "correo": "Arnulfa@gmail.com",
+    "nombre_usuario": "Arnulfa Vasquez",
+    "pais_origen": "Colombia",
+    "telefono": "34567990",
+    "contrasena": "Emilia Josefa",
+    "sexo": "F",
+    "fecha_nacimiento": "2003-07-18T00:00:00.000Z",
+    "nombre": "Arnulfa",
+    "apellidos": "Vasquez"
+  },
+  {
+    "id": 3,
+    "id_tipo_usuario": 2,
+    "correo": "Manuel@gmail.com",
+    "nombre_usuario": "ManuelMorales",
+    "pais_origen": "Colombia",
+    "telefono": "34567990",
+    "contrasena": "tremendo",
+    "sexo": "M",
+    "fecha_nacimiento": "2003-07-18T00:00:00.000Z",
+    "nombre": "Manuel",
+    "apellidos": "Morales"
+  }
+]
